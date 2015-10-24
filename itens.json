@@ -818,4 +818,17 @@
       "url": "http://jansenfelipe.com.br"
     }
   }
+  
+    {
+    "name": "TRABALHANDO COM REPOSITORY NO LARAVEL",
+    "url": "http://www.schoolofnet.com/2015/07/trabalhando-com-repository-no-laravel/",
+    "type": "tutorial",
+    "tags": [
+      "Hard", "Padrão de Projeto"
+    ],
+    "author": {
+      "name": " WESLEY WILLIANS",
+      "url": "http://www.schoolofnet.com/"
+    }
+  }
 ]
